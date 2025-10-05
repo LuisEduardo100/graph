@@ -114,7 +114,7 @@ Esses algoritmos têm uso em diversos contextos, como:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SeuUsuario/graph-eulerianos.git
+git clone https://github.com/LuisEduardo100/graph
 ```
 
 ### 2. Compilar o projeto
@@ -126,7 +126,7 @@ javac src/edu/unifor/graph/*.java
 ### 3. Executar o programa principal
 
 ```bash
-java src.edu.unifor.graph.Main
+java -cp src edu.unifor.graph.Main
 ```
 
 ---

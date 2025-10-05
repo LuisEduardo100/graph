@@ -1,8 +1,8 @@
+package edu.unifor.graph;
 import java.io.File;
 import java.util.List;
-import edu.unifor.graph.*;
 
-public class App {
+public class Main {
     public static void main(String[] args) {
         File pasta = new File("data");
         if (!pasta.exists()) {
