@@ -8,9 +8,7 @@
 
 ## 🧭 Descrição Geral
 
-Este repositório contém a **implementação em Java** dos algoritmos de **Hierholzer** e **Fleury**, ambos utilizados para **encontrar trilhas e circuitos eulerianos em grafos não direcionados**.
-
-O projeto foi desenvolvido como parte da disciplina de **Grafos** na **Universidade de Fortaleza (UNIFOR)**, com o objetivo de **explorar, comparar e compreender** diferentes estratégias para a construção de trilhas e circuitos eulerianos.
+Este repositório contém a **implementação em Java** dos algoritmos de **Hierholzer** e **Fleury**, ambos utilizados para **encontrar trilhas e circuitos eulerianos em grafos não direcionados**. O projeto foi desenvolvido como parte da disciplina de **Grafos** na **Universidade de Fortaleza (UNIFOR)**, com o objetivo de **explorar, comparar e compreender** diferentes estratégias para a construção de trilhas e circuitos eulerianos.
 
 ---
 
@@ -104,7 +102,7 @@ Ele escolhe cuidadosamente as arestas para evitar desconectar o grafo durante o 
 
 Esses algoritmos têm uso em diversos contextos, como:
 
-- 🛻 **Problemas de logística e roteamento**
+- 📋 **Problemas de logística e roteamento**
 - 🧭 **Planejamento de rotas de inspeção**
 - 🌐 **Análise de redes e conectividade**
 - 🧩 **Ensino e pesquisa em teoria dos grafos**
@@ -136,6 +134,6 @@ java src.edu.unifor.graph.Main
 ## 🏷️ Licença
 
 Este projeto foi desenvolvido **para fins educacionais**.  
-Sinta-se à vontade para **estudar, modificar e reutilizar o código**, desde que os **devidos créditos** sejam mantidos.
+Sinta-se à vontade para **estudar, modificar e reutilizar o código**.
 
 ---
